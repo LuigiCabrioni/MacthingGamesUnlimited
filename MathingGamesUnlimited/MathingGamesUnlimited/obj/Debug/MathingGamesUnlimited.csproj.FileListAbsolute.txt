@@ -1,0 +1,10 @@
+D:\Hello Name!\MathingGamesUnlimited\MathingGamesUnlimited\obj\Debug\MathingGamesUnlimited.csprojAssemblyReference.cache
+D:\Hello Name!\MathingGamesUnlimited\MathingGamesUnlimited\obj\Debug\MathingGamesUnlimited.Form1.resources
+D:\Hello Name!\MathingGamesUnlimited\MathingGamesUnlimited\obj\Debug\MathingGamesUnlimited.Properties.Resources.resources
+D:\Hello Name!\MathingGamesUnlimited\MathingGamesUnlimited\obj\Debug\MathingGamesUnlimited.csproj.GenerateResource.cache
+D:\Hello Name!\MathingGamesUnlimited\MathingGamesUnlimited\obj\Debug\MathingGamesUnlimited.csproj.CoreCompileInputs.cache
+D:\Hello Name!\MathingGamesUnlimited\MathingGamesUnlimited\bin\Debug\MathingGamesUnlimited.exe.config
+D:\Hello Name!\MathingGamesUnlimited\MathingGamesUnlimited\bin\Debug\MathingGamesUnlimited.exe
+D:\Hello Name!\MathingGamesUnlimited\MathingGamesUnlimited\bin\Debug\MathingGamesUnlimited.pdb
+D:\Hello Name!\MathingGamesUnlimited\MathingGamesUnlimited\obj\Debug\MathingGamesUnlimited.exe
+D:\Hello Name!\MathingGamesUnlimited\MathingGamesUnlimited\obj\Debug\MathingGamesUnlimited.pdb
